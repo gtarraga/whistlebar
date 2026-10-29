@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key><string>local.WhistleBar</string>
+    <key>CFBundleName</key><string>WhistleBar</string>
+    <key>CFBundleDisplayName</key><string>WhistleBar</string>
+    <key>CFBundleExecutable</key><string>WhistleBar</string>
+    <key>CFBundleIconFile</key><string>AppIcon</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>0.1.0</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>LSMinimumSystemVersion</key><string>26.0</string>
+    <key>LSUIElement</key><true/>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>WhistleBar records your voice while you dictate, transcribes it on your Mac, and saves recordings locally so failed dictations can be recovered.</string>
+    <key>NSInputMonitoringUsageDescription</key>
+    <string>WhistleBar listens for your microphone key to start and stop dictation.</string>
+</dict>
+</plist>
